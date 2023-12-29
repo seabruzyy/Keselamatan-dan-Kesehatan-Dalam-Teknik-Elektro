@@ -20,7 +20,7 @@ Tujuan:
 2. Pengaruh dari implementasi protokol keselamatan K3 listrik terhadap keselamatan dan kesehatan di laboratorium teknik elektro.
    
 Manfaat penelitian:
-- Studi ini fokus pada meningkatkan keselamatan di lingkungan teknik elektro dengan Protokol Keselamatan K3 Listrik. Sebagai mahasiswa, kami identifikasi tantangan praktis, evaluasi langkah-langkah keselamatan, dan rekomendasikan perbaikan. Upaya kami melibatkan peningkatan kesadaran dan kepatuhan sesama mahasiswa untuk membentuk budaya keselamatan yang lebih baik. Penelitian ini tidak hanya memberikan pemahaman teknis, tetapi juga solusi praktis dan berkelanjutan dalam menjaga keselamatan di dunia teknik elektro.
+- meningkatkan keselamatan dan kesehatan dalam lingkungan teknik elektro, dengan fokus pada implementasi Protokol Keselamatan K3 Listrik. Sebagai mahasiswa, kami akan mengidentifikasi tantangan praktis dalam penerapan protokol tersebut, mengevaluasi efektivitas langkah-langkah keselamatan yang ada, dan merumuskan rekomendasi perbaikan. Kami juga akan berupaya meningkatkan kesadaran dan kepatuhan sesama mahasiswa terhadap keselamatan, dengan harapan kontribusi kami dapat membentuk budaya keselamatan yang lebih baik di masa depan. Penelitian ini tidak hanya memberikan manfaat  untuk memahami teknisnya, tetapi juga untuk memberikan solusi yang praktis dan berkelanjutan dalam menjaga keselamatan di dunia teknik elektro.
 
 
 
